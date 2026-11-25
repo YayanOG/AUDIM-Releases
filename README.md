@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="AUDIM Logo" width="136" />
+
 # AUDIM
 
 ### Reproductor Hi-Res Nativo para Android y Windows · Motor `FOLD v1.4.2` & `.flex`
@@ -12,7 +14,7 @@
   <img src="https://img.shields.io/badge/Licencia-Propietaria-FF1744?style=for-the-badge" alt="Licencia Propietaria" />
 </p>
 
-> **Copyright © 2026 Yadrián Ortiz García. Todos los derechos reservados (*All Rights Reserved*).**  
+> **Copyright © 2026 YayanOG. Todos los derechos reservados (*All Rights Reserved*).**  
 > Este repositorio aloja exclusivamente **lanzamientos oficiales binarios** para descarga y uso personal conforme a [`LICENSE`](LICENSE).
 
 </div>
@@ -37,6 +39,20 @@
   - Para pistas comprimidas con pérdida (`MP3`, `AAC`, `OGG`, `Opus`), incluye un módulo **opcional** (apagado por defecto) de reconstrucción espectral de altas frecuencias (`>14 kHz`) con espectrograma comparativo HD en GPU.
 - **Interfaz OLED, Biblioteca y Visualización GPU:**
   - Fondos ambientales dinámicos sincronizados con la carátula, barra continua **WaveSeekbar** centrada bajo Play/Pausa, 17+ categorías de biblioteca con orden inteligente por número de disco/pista en **Álbumes**, letras sincronizadas (`.lrc`) y visualizadores reactivos en GPU.
+
+---
+
+## Tecnologías del Ecosistema: FOLD y Flex (`.flex`)
+
+### ¿Qué es FOLD?
+**FOLD** es nuestra tecnología propia de audio sin pérdidas y alta resolución, diseñada con un enfoque en la eficiencia de almacenamiento y la máxima fidelidad sonora.
+
+> **Estado actual:** El codificador y decodificador (*encoder/decoder*) independiente de **FOLD** aún no ha sido liberado al público. Sin embargo, **AUDIM** ya está preparado de forma nativa para su ecosistema, con planes futuros de expandir el soporte hacia frecuencias ultra altas de **352.8 kHz, 384 kHz, 705.6 kHz y 706.8 kHz**.
+
+### ¿Qué es Flex (`.flex`)?
+**Flex (`.flex`)** es un concepto de formato de audio perceptual enfocado en lograr una alta eficiencia de compresión manteniendo una experiencia auditiva limpia.
+
+> **Estado actual:** Actualmente **Flex (`.flex`)** es una idea en desarrollo y **todavía no funciona por completo dentro de la aplicación**.
 
 ---
 
@@ -79,6 +95,6 @@ Queda prohibida la ingeniería inversa, descompilación, desensamblado, evasión
 <div align="center">
 
 **AUDIM** · *Hi-Res Audio Player for Android & Windows*  
-*Native C++17 Engine (`FOLD v1.4.2` + `.flex`) · Copyright © 2026 Yadrián Ortiz García*
+*Native C++17 Engine (`FOLD v1.4.2` + `.flex`) · Copyright © 2026 YayanOG*
 
 </div>
