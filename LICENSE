@@ -1,0 +1,61 @@
+LICENCIA DE SOFTWARE PROPIETARIO — TODOS LOS DERECHOS RESERVADOS
+PROPRIETARY SOFTWARE LICENSE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Yadrián Ortiz García. Todos los derechos reservados.
+Copyright (c) 2026 Yadrián Ortiz García. All Rights Reserved.
+
+================================================================================
+AUDIM AUDIO ECOSYSTEM (Android, Windows x64, Motor FOLD / .flex y Protecciones)
+================================================================================
+
+El ecosistema de software AUDIM, incluyendo sin limitación todas sus funciones
+integradas (ecualizador gráfico/paramétrico, preamplificador ±24 dB, espectros y
+visualizadores GPU, reconstrucción neuronal opcional, gestión de biblioteca), la
+interfaz de usuario, los tokens y recursos gráficos, los binarios oficiales de
+Android (.apk, bibliotecas nativas .so) y Windows (.exe, .msi, .dll), el código
+fuente, el motor de audio FOLD / FOLD-CD / códec perceptual .flex (FLX1) y sus
+sistemas nativos de protección e integridad (colectivamente, el "Software"), es
+propiedad intelectual exclusiva de Yadrián Ortiz García (el "Titular").
+
+1. CONCESIÓN LIMITADA DE USO PERSONAL (SOLO BINARIOS OFICIALES)
+   El Titular concede al usuario final una licencia limitada, revocable, no
+   exclusiva, intransferible y no sublicenciable únicamente para descargar,
+   instalar y utilizar personalmente, sin fines comerciales, los binarios
+   compilados oficiales de AUDIM publicados directamente por el Titular en sus
+   canales autorizados (como GitHub Releases oficiales). Esta concesión no
+   otorga ningún derecho sobre el código fuente ni transfiere propiedad alguna.
+
+2. PROHIBICIONES ESTRICTAS
+   Queda estrictamente prohibido, salvo autorización previa, expresa y por
+   escrito firmada por el Titular:
+   a) Realizar ingeniería inversa, descompilar, desensamblar, depurar,
+      inspeccionar o intentar derivar el código fuente, algoritmos, pesos
+      neuronales o lógica interna del Software o de sus binarios.
+   b) Evadir, desactivar, manipular o intentar burlar los sistemas de
+      protección, verificación de firma, cifrado o integridad incorporados.
+   c) Copiar, modificar, adaptar, traducir, crear obras derivadas o extraer
+      activos, bibliotecas o componentes del Software.
+   d) Redistribuir, sublicenciar, alquilar, arrendar, vender, alojar o utilizar
+      el Software o los binarios oficiales con fines comerciales o en productos
+      o servicios de terceros sin licencia comercial escrita del Titular.
+
+3. REPOSITORIO PRIVADO Y RESERVA DE DERECHOS
+   El código fuente privado y sus repositorios asociados son confidenciales y de
+   acceso estrictamente restringido al Titular. Cualquier derecho no concedido
+   expresamente en este documento queda íntegramente reservado al Titular.
+
+4. COMPONENTES DE TERCEROS
+   Las bibliotecas de código abierto de terceros enlazadas o incluidas por el
+   ecosistema permanecen sujetas a sus respectivas licencias originales. Todas
+   las creaciones, integraciones y archivos originales de AUDIM y FOLD / .flex
+   permanecen íntegramente protegidos por esta licencia propietaria.
+
+5. EXENCIÓN DE GARANTÍAS ("TAL CUAL" / "AS IS") Y LIMITACIÓN DE RESPONSABILIDAD
+   EL SOFTWARE SE PROPORCIONA "TAL CUAL" ("AS IS"), SIN GARANTÍA DE NINGÚN TIPO,
+   EXPRESA O IMPLÍCITA, INCLUYENDO, A TÍTULO ENUNCIATIVO PERO NO LIMITATIVO,
+   GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR O NO
+   INFRACCIÓN. EN NINGÚN CASO YADRIÁN ORTIZ GARCÍA SERÁ RESPONSABLE POR DAÑOS
+   DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES O CONSECUENTES DERIVADOS DE
+   LA DESCARGA, INSTALACIÓN O USO DEL SOFTWARE.
+
+Contacto y consultas de derechos / licenciamiento: Yadrián Ortiz García
